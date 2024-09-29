@@ -1,0 +1,12 @@
+{
+  "test_variables": {
+    "value": "#731111",
+    "type": "color"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "base/light",
+      "type": "other"
+    }
+  }
+}
