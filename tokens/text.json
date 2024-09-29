@@ -3,7 +3,7 @@
     "fonts": {
       "$type": "fontFamily",
       "serif": {
-        "$value": "Inter, serif"
+        "$value": "Times New Roman, serif"
       },
       "sans": {
         "$value": "Open Sans, sans-serif"

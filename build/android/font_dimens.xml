@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
-  Do not edit directly
-  Generated on Sun, 29 Sep 2024 00:08:28 GMT
+  Do not edit directly, this file was auto-generated.
 -->
 <resources>
-  
+  <dimen name="text_sizes_heading">448.00dp</dimen>
+  <dimen name="text_sizes_body">256.00dp</dimen>
 </resources>
