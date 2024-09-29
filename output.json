@@ -1,11 +1,15 @@
 {
   "test_variables": {
-    "value": "#731111",
+    "value": "#0066ff",
+    "type": "color"
+  },
+  "test_variables 2": {
+    "value": "#ff1313",
     "type": "color"
   },
   "tokenSetOrder": {
     "0": {
-      "value": "base/light",
+      "value": "base./light",
       "type": "other"
     }
   }
