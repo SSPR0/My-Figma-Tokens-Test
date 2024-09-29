@@ -5,12 +5,6 @@
   "log": {
     "verbosity": "default"
   },
-  "platforms": {
-    "css": {
-      "transformGroup": "kebab",
-      "transforms": [
-        "name/kebab"
-      ],
       "buildPath": "build/css/",
       "files": [
         {
